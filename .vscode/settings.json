@@ -1,0 +1,14 @@
+{
+ "github.copilot.advanced": {},
+ "accessibility.signals.lineHasWarning": {
+  "announcement": "off"
+ },
+ "accessibility.signals.positionHasWarning": {
+  "announcement": "off"
+ },
+ "accessibility.signals.positionHasError": {
+  "announcement": "off"
+ },
+ "rust-analyzer.inlayHints.closureCaptureHints.enable": true,
+ "editor.defaultFormatter": "rust-lang.rust-analyzer"
+}
